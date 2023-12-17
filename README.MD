@@ -78,6 +78,12 @@ fn main() {
    ... (Handle Vec<Currency> as needed)
 }
 ```
+
+
+## Exchange Rate Provider
+CashKit Depend while providing exchange rate on  the free api of "open.er-api.com".
+Please note that we are not responsible for any inaccuracies or discrepancies in the provided data.
+
 ## Rusty Rails Project
 
   
